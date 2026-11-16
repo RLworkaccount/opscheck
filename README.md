@@ -10,6 +10,9 @@ Ask Claude (or any MCP client) things like:
 
 …and it answers using real checks rather than guessing.
 
+<img width="907" height="869" alt="image" src="https://github.com/user-attachments/assets/c89150e8-21af-43f6-9181-522ee30fea5a" />
+
+
 ## Why read-only?
 
 Giving an AI agent access to production is risky. Every tool in opscheck is
