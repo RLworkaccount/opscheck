@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "opscheck": {
+      "command": "E:\\Claude\\opscheck\\.venv\\Scripts\\python.exe",
+      "args": ["-m", "opscheck.server"]
+    }
+  }
+}
